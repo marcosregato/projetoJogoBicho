@@ -26,7 +26,6 @@ projetoJogoBicho/
 ├── 📄 populate_data.sql         # Dados de exemplo
 ├── 📋 requirements.txt          # Dependências Python
 ├── 🗂️ .gitignore              # Arquivos ignorados pelo Git
-├── 🗂️ .vscode/               # Configurações do VS Code
 └── 💾 resultados.db             # Banco de dados SQLite (gerado automaticamente)
 ```
 

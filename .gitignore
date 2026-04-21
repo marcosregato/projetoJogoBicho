@@ -123,9 +123,7 @@ dmypy.json
 .pyre/
 
 # IDE - VS Code
-.vscode/settings.json
-.vscode/launch.json
-.vscode/extensions.json
+.vscode/
 
 # IDE - PyCharm
 .idea/
